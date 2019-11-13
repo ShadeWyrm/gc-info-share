@@ -25,3 +25,7 @@ layout: default
 ## Play4Agile - 2019
 
 * [What is an Unconference?](blogs/play4agile-unconference.html)
+
+## GCEARB Information
+
+* [Cloud Migration Lessons Learned](blogs/gc-wlm-lessonslearned.html)

@@ -27,7 +27,7 @@ Be transparent, and accurate, misinformation and late information will only hurt
 While lots of things are released and tested on the open market, they don't necessarily function as intended.
 Make sure you add contingency time to account for this, as there may be a lot of back and forth.
 
-## Cloud is a Journey
+## 6) Cloud is a Journey
 Not a destination. 
 It is complex, and will always take longer than you think. 
 Start now, start small, start simple - but whatever you do. 

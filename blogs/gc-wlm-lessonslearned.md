@@ -33,3 +33,7 @@ It is complex, and will always take longer than you think.
 Start now, start small, start simple - but whatever you do. 
 Start.
 You will fail along the way somewhere, and that's ok.
+
+## 7) Change is Hard
+
+Cloud requires a major culture shift, especially as individuals will need to adapt to radically different roles. Do not underestimate the power fear has over people. Organizational change management is a must.

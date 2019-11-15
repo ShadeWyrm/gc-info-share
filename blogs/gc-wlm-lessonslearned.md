@@ -37,3 +37,9 @@ You will fail along the way somewhere, and that's ok.
 ## 7) Change is Hard
 
 Cloud requires a major culture shift, especially as individuals will need to adapt to radically different roles. Do not underestimate the power fear has over people. Organizational change management is a must.
+
+## 8) Cost is Your Responsibility 
+
+Watch the costs of your Cloud services - you will know within a matter of hours if a grievous error has been made; assuming you are monitoring and logging costs.
+
+Misused Cloud is very expensive.

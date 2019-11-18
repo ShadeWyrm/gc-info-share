@@ -10,7 +10,7 @@ layout: default
 
 # About Me
 
-* [About Me](/about-me.html)
+* [About Me](about-me.html)
 
 # Presentations
 

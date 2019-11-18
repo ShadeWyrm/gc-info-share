@@ -3,12 +3,14 @@ title: Information Sharing
 layout: default
 ---
 
-# About Me
-
 * [Twitter](http://twitter.com/@ShadeWyrm)
 * [LinkedIn](https://www.linkedin.com/in/vivian-nobrega-782481160/)
 * [GCCollab](https://gccollab.ca/profile/Vivian.Nobrega)
 * [GEDS](https://gcdirectory-gcannuaire.ssc-spc.gc.ca/en/GCD/?pgid=015&dn=cn%3DNobrega%5C%2C+Vivian%2Cou%3DESP-PSI%2Cou%3DCTO-DPT%2Cou%3DOCIO-BDPI%2Cou%3DTBS-SCT%2Co%3Dgc%2Cc%3Dca)
+
+# About Me
+
+* [About Me](/about-me.html)
 
 # Presentations
 

@@ -43,3 +43,9 @@ Cloud requires a major culture shift, especially as individuals will need to ada
 Watch the costs of your Cloud services - you will know within a matter of hours if a grievous error has been made; assuming you are monitoring and logging costs.
 
 Misused Cloud is very expensive.
+
+## 9) Its Dangerous to Go Alone
+
+Partner with others, leverage the expertise of others who have gone before you.
+
+Those teams working in the open, and making their scripts, code and knowledge #opensource are more likely to succeed.

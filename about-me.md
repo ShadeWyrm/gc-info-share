@@ -5,6 +5,8 @@ layout: default
 
 # Vivian Nobrega's User Manual
 
+![Picture of Me](/img/Me.jpg)
+
 ## Style
 * Old Soul: I have a calm and positive energy 
 * Positive Disruption: I focus on better work for everyone

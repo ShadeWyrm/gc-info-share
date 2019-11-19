@@ -51,3 +51,13 @@ Misused Cloud is very expensive.
 Partner with others, leverage the expertise of others who have gone before you.
 
 Those teams working in the open, and making their scripts, code and knowledge #opensource are more likely to succeed.
+
+## 10) OneGC
+
+Start working together. 
+
+Engage and talk to @TBS_Canada and @SSC_CA, be honest and upfront with your needs. 
+
+Find other Departments to collaborate with. (Work in the open instead of MOU)
+
+We're in this together.

@@ -21,6 +21,7 @@ layout: default
 ## Open Source
 
 * [Open Source in the GC : Usage of open source in internal products](presentations/open-source-in-the-gc.html) - A Presentation on the current status of Open Source in the GC as of 10-28-2019.
+* [Open Source & You in the GC](presentations/oss-and-you-in-the-gc.html) - A Presentation on why OSS is of value to Departments.
 
 # Open Information
 

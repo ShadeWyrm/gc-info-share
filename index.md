@@ -11,6 +11,7 @@ layout: default
 # About Me
 
 * [About Me](about-me.html)
+* [Why I care about #opensource](blogs/why-i-oss.html)
 
 # Presentations
 

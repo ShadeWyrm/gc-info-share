@@ -4,7 +4,6 @@ layout: index
 ---
 
 <div>
-<div>
   <a href="https://twitter.com/shadewyrm?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @shadewyrm</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
   <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
@@ -12,10 +11,9 @@ layout: index
   <div style="float:right;" class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="vivian-nobrega-782481160"><a class="LI-simple-link" href='https://ca.linkedin.com/in/vivian-nobrega-782481160?trk=profile-badge'>Vivian Nobrega</a></div>
 </div>
 
-<div style="float:left;">
+<div>
 * [GCCollab](https://gccollab.ca/profile/Vivian.Nobrega)
 * [GEDS](https://gcdirectory-gcannuaire.ssc-spc.gc.ca/en/GCD/?pgid=015&dn=cn%3DNobrega%5C%2C+Vivian%2Cou%3DESP-PSI%2Cou%3DCTO-DPT%2Cou%3DOCIO-BDPI%2Cou%3DTBS-SCT%2Co%3Dgc%2Cc%3Dca)
-</div>
 </div>
 
 ## About Me

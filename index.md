@@ -1,6 +1,6 @@
 ---
 title: Information Sharing
-layout: default
+layout: index
 ---
 
 * [Twitter](http://twitter.com/@ShadeWyrm)

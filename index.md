@@ -8,29 +8,34 @@ layout: default
 * [GCCollab](https://gccollab.ca/profile/Vivian.Nobrega)
 * [GEDS](https://gcdirectory-gcannuaire.ssc-spc.gc.ca/en/GCD/?pgid=015&dn=cn%3DNobrega%5C%2C+Vivian%2Cou%3DESP-PSI%2Cou%3DCTO-DPT%2Cou%3DOCIO-BDPI%2Cou%3DTBS-SCT%2Co%3Dgc%2Cc%3Dca)
 
-# About Me
+## About Me
 
 * [About Me](about-me.html)
 * [Why I care about #opensource](blogs/why-i-oss.html)
 
-# Presentations
+## Resources
 
-## DevOps
+* [Published Material on Open Source Software](https://www.canada.ca/en/government/system/digital-government/open-source-software.html)
+* [Open Resource Exchange](https://canada-ca.github.io/ore-ero/)
+
+## Presentations
+
+### DevOps
 
 * [A Story About Pipes : DevOps and Improving Software Development](presentations/a-story-about-pipes.html) - A Presentation on championing DevOps at Transport Canada for the Stratosphere Conference in 2019.
 
-## Open Source
+### Open Source
 
 * [Open Source in the GC : Usage of open source in internal products](presentations/open-source-in-the-gc.html) - A Presentation on the current status of Open Source in the GC as of 10-28-2019.
 * [Open Source & You in the GC](presentations/oss-and-you-in-the-gc.html) - A Presentation on why OSS is of value to Departments.
 * [Open Source in the GC : Usage of open source in internal products - Condensed](presentations/open-source-in-the-gc2.html) - A Presentation on the current status of Open Source in the GC as of 1-13-2020
 
-# Open Information
+## Open Information
 
-## Play4Agile - 2019
+### Play4Agile - 2019
 
 * [What is an Unconference?](blogs/play4agile-unconference.html)
 
-## GCEARB Information
+### GCEARB Information
 
 * [Cloud Migration Lessons Learned](blogs/gc-wlm-lessonslearned.html)

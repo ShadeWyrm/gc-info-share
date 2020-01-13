@@ -1,3 +1,5 @@
 remote_theme: fongandrew/hydeout
 
-sidebar_home_link:  true
+author:
+  name:           'Vivian Nobrega'
+  url:            https://shadewyrm.github.io/gc-info-share/

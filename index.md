@@ -25,6 +25,7 @@ layout: index
 
 * [Published Material on Open Source Software](https://www.canada.ca/en/government/system/digital-government/open-source-software.html)
 * [Open Resource Exchange](https://canada-ca.github.io/ore-ero/)
+* [FLOSSING-LLSG : Open Source Community of Practice](https://wiki.gccollab.ca/FLOSSING-LLSG)
 
 ## Presentations
 

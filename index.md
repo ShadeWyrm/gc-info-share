@@ -19,7 +19,10 @@ layout: index
 ## About Me
 
 * [About Me](about-me.html)
+
+## Blog Posts
 * [Why I care about #opensource](blogs/why-i-oss.html)
+* [On Culture & Merit](blogs/on-merit.html)
 
 ## Resources
 

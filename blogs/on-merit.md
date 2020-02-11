@@ -22,7 +22,7 @@ That experience can often be shared, from mentors and managers who can support y
  
 The rigor of the staffing process can be a massive barrier for individuals who do not meet societal norms. The availability of a mentor who has the time and willingness to assist is limited when you add racial, gender, sexuality or ideological differences.
  
-Working in the Information Technology (IT) field, I find IT management is in an uncomfortable position. With a vast majority of the CS workforce that are 40 or older and a consistently growing demand for CS work, poaching from other departments or It companies has become the fastest and easiest way to provide talent with opportunities. Instead of investing in staff, departments leverage the use of the outdated Competition System, giving other departments the “Risk” associated with awarding an individual a higher level.
+Working in the Information Technology (IT) field, I find IT management is in an uncomfortable position. With a vast majority of the CS workforce that are 40 or older and a consistently growing demand for CS work, poaching from other departments or IT companies has become the fastest and easiest way to provide talent with opportunities. Instead of investing in staff, departments leverage the use of the outdated Competition System, giving other departments the “Risk” associated with awarding an individual a higher level.
  
 This has culminated in the vast majority of advice from management I’ve had:
  

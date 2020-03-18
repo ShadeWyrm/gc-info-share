@@ -22,7 +22,6 @@ layout: index
 
 ## Blog Posts
 * [Why I care about #opensource](blogs/why-i-oss.html)
-* [On Culture & Merit](blogs/on-merit.html)
 
 ## Resources
 
